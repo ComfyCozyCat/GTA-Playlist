@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#482269"/><stop offset="1" stop-color="#1b0b34"/></linearGradient><linearGradient id="sun" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#ffcf89"/><stop offset="1" stop-color="#fa729b"/></linearGradient></defs>
+<rect width="512" height="512" rx="112" fill="url(#night)"/><circle cx="256" cy="226" r="143" fill="url(#sun)"/>
+<path d="M114 226h284M120 254h272M134 280h244M159 306h194" fill="none" stroke="#492662" stroke-width="13"/>
+<path d="M72 398q87-72 181-45t187-33v95H72z" fill="#291344"/>
+<text x="256" y="407" font-size="92" font-family="Arial,sans-serif" font-weight="900" text-anchor="middle" fill="#fff1e6">FM</text>
+<path d="M98 135q20-55 73-75M414 135q-20-55-73-75" fill="none" stroke="#ffc18b" stroke-width="10" stroke-linecap="round"/>
+</svg>
