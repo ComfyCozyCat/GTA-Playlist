@@ -1,0 +1,20 @@
+{
+  "name": "Leonida.FM — GTA Playlist",
+  "short_name": "Leonida.FM",
+  "description": "Vice City inspired GTA VI radio soundtrack tracker",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#160c2a",
+  "theme_color": "#1b0d32",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
