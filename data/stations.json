@@ -1,0 +1,1977 @@
+{
+  "updated": "2026-11-19",
+  "source": "https://www.keengamer.com/articles/guides/gta-6-all-radio-stations-and-full-soundtrack-list/",
+  "note": "Launch-day third-party reported radio tracklist; not independently verified by Rockstar. spotifyUrl null means search fallback, not a direct verified Spotify song link.",
+  "stations": [
+    {
+      "id": "flash",
+      "name": "Flash FM",
+      "genre": "Pop & dance",
+      "host": "Robyn & Alex Consani",
+      "color": "#ff7fb5",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "flash-1",
+          "title": "Good Ones",
+          "artist": "Charli xcx",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-2",
+          "title": "Electric Feel",
+          "artist": "MGMT",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-3",
+          "title": "Midnight Sun (Girls Trip)",
+          "artist": "Zara Larsson & PinkPantheress",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-4",
+          "title": "Love Sex Magic",
+          "artist": "Ciara feat. Justin Timberlake",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-5",
+          "title": "Spinning Around",
+          "artist": "Kylie Minogue",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-6",
+          "title": "Hold On, We're Going Home",
+          "artist": "Drake feat. Majid Jordan",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-7",
+          "title": "Lazy",
+          "artist": "X-Press 2 feat. David Byrne",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-8",
+          "title": "Fame Is a Gun",
+          "artist": "Addison Rae",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-9",
+          "title": "Gabriela",
+          "artist": "KATSEYE",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-10",
+          "title": "Break Free",
+          "artist": "Ariana Grande feat. Zedd",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-11",
+          "title": "Illegal",
+          "artist": "PinkPantheress",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-12",
+          "title": "Hot to Go!",
+          "artist": "Chappell Roan",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-13",
+          "title": "Earthquake",
+          "artist": "JISOO",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-14",
+          "title": "Houdini",
+          "artist": "Dua Lipa",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-15",
+          "title": "Lunch",
+          "artist": "Billie Eilish",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-16",
+          "title": "Wanderlust",
+          "artist": "The Weeknd",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-17",
+          "title": "Sweet Spot",
+          "artist": "Justin Bieber",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-18",
+          "title": "Dare",
+          "artist": "Gorillaz",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-19",
+          "title": "Crush",
+          "artist": "Jennifer Paige",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-20",
+          "title": "Around the World",
+          "artist": "Daft Punk",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-21",
+          "title": "Forever More",
+          "artist": "Moloko",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-22",
+          "title": "Mantra",
+          "artist": "JENNIE",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-23",
+          "title": "Sawadika",
+          "artist": "LISA",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-24",
+          "title": "Feels",
+          "artist": "Calvin Harris feat. Pharrell Williams, Katy Perry & Big Sean",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-25",
+          "title": "Give Me All Your Luvin'",
+          "artist": "Madonna feat. Nicki Minaj & M.I.A.",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-26",
+          "title": "Skrilla",
+          "artist": "Kodak Black",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-27",
+          "title": "Lost",
+          "artist": "Frank Ocean",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-28",
+          "title": "Sports Car",
+          "artist": "Tate McRae",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-29",
+          "title": "Motivation",
+          "artist": "Kelly Rowland feat. Lil Wayne",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-30",
+          "title": "Someday",
+          "artist": "Mariah Carey",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-31",
+          "title": "Mr. Cool",
+          "artist": "Kenya Grace",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "flash-32",
+          "title": "Persuasive",
+          "artist": "Doechii & SZA",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "chamber",
+      "name": "The Chamber 106.6",
+      "genre": "Heavy metal",
+      "host": "Kerry King & Tom Araya",
+      "color": "#e16c7d",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "chamber-1",
+          "title": "I",
+          "artist": "Black Sabbath",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-2",
+          "title": "I'm Broken",
+          "artist": "Pantera",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-3",
+          "title": "Raining Blood",
+          "artist": "Slayer",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-4",
+          "title": "Symphony of Destruction",
+          "artist": "Megadeth",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-5",
+          "title": "Master of Puppets",
+          "artist": "Metallica",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-6",
+          "title": "Blood and Thunder",
+          "artist": "Mastodon",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-7",
+          "title": "I Am the Law",
+          "artist": "Anthrax",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-8",
+          "title": "Battery",
+          "artist": "Metallica",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-9",
+          "title": "Seek & Destroy",
+          "artist": "Metallica",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-10",
+          "title": "Territory",
+          "artist": "Sepultura",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-11",
+          "title": "Sugar",
+          "artist": "System of a Down",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-12",
+          "title": "Sober",
+          "artist": "TOOL",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "chamber-13",
+          "title": "Rotten to the Core",
+          "artist": "Overkill",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "back-country",
+      "name": "Back Country Radio",
+      "genre": "Renegade country",
+      "host": "Morgan Wallen, Lana Del Rey & Jeremy Dufrene",
+      "color": "#e9ad69",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "back-country-1",
+          "title": "Rhinestone Cowboy",
+          "artist": "Glen Campbell",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "back-country-2",
+          "title": "The Fireman",
+          "artist": "George Strait",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "back-country-3",
+          "title": "Need a Little Time Off for Bad Behavior",
+          "artist": "David Allan Coe",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "back-country-4",
+          "title": "Don't Come Home A-Drinkin' (With Lovin' on Your Mind)",
+          "artist": "Loretta Lynn",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "back-country-5",
+          "title": "The Conversation",
+          "artist": "Hank Williams Jr. & Waylon Jennings",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "back-country-6",
+          "title": "Louisiana Saturday Night",
+          "artist": "Mel McDaniel",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "back-country-7",
+          "title": "Polk Salad Annie",
+          "artist": "Tony Joe White",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "back-country-8",
+          "title": "Walk Softly on This Heart of Mine",
+          "artist": "The Kentucky Headhunters",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "back-country-9",
+          "title": "Last Thing You Need",
+          "artist": "Morgan Wallen",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dirty-south",
+      "name": "Dirty South Classics",
+      "genre": "Southern hip-hop",
+      "host": "Trick Daddy & Trina",
+      "color": "#fa997b",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "dirty-south-1",
+          "title": "Like a Pimp",
+          "artist": "David Banner feat. Lil' Flip",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-2",
+          "title": "Who Dat",
+          "artist": "JT Money feat. Solé",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-3",
+          "title": "Born N Raised",
+          "artist": "DJ Khaled feat. Trick Daddy, Rick Ross & Pitbull",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-4",
+          "title": "Slow Motion",
+          "artist": "Juvenile feat. Soulja Slim",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-5",
+          "title": "Freek-a-Leek",
+          "artist": "Petey Pablo",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-6",
+          "title": "I'm a Thug",
+          "artist": "Trick Daddy",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-7",
+          "title": "Shorty Wanna Ride",
+          "artist": "Young Buck",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-8",
+          "title": "Hard Out Here for a Pimp",
+          "artist": "Three 6 Mafia",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-9",
+          "title": "A Milli",
+          "artist": "Lil Wayne",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-10",
+          "title": "Holidae In",
+          "artist": "Chingy feat. Ludacris & Snoop Dogg",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-11",
+          "title": "Da Baddest Bitch",
+          "artist": "Trina",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-12",
+          "title": "Pop Bottles",
+          "artist": "Birdman feat. Lil Wayne",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-13",
+          "title": "Player's Ball",
+          "artist": "OutKast",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-14",
+          "title": "Still Ballin'",
+          "artist": "2Pac feat. Trick Daddy",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-15",
+          "title": "Dey Know",
+          "artist": "Shawty Lo",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-16",
+          "title": "Bitch I'm Me",
+          "artist": "Brisco",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "dirty-south-17",
+          "title": "White Boy",
+          "artist": "Dem Franchize Boyz",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "cocoteo",
+      "name": "Cocoteo FM",
+      "genre": "Reggaeton & Latin",
+      "host": "Bad Bunny & RaiNao",
+      "color": "#ff9b75",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "cocoteo-1",
+          "title": "Girl",
+          "artist": "Myke Towers",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-2",
+          "title": "EoO",
+          "artist": "Bad Bunny",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-3",
+          "title": "Si Es Trucho Es Trucho (Remix)",
+          "artist": "Axel Rulay feat. Farruko & El Alfa",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-4",
+          "title": "Canalla",
+          "artist": "Romeo Santos & El Chaval de la Bachata",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-5",
+          "title": "Ni Le Cabe",
+          "artist": "Young Miko",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-6",
+          "title": "Amanece",
+          "artist": "Anuel AA & Haze",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-7",
+          "title": "Otra Noche en Miami",
+          "artist": "Bad Bunny",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-8",
+          "title": "Se Me Nota (Agárrame)",
+          "artist": "Chimbala & Omega",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-9",
+          "title": "Intocable",
+          "artist": "Don Omar",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-10",
+          "title": "Suzuki",
+          "artist": "Fuerza Regida",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-11",
+          "title": "Macacoa 2000",
+          "artist": "Rauw Alejandro",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-12",
+          "title": "Mojabi Ghost",
+          "artist": "Tainy & Bad Bunny",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-13",
+          "title": "Suave (Blass Remix)",
+          "artist": "Calle 13",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-14",
+          "title": "Mariposas en el Estómago",
+          "artist": "RaiNao & El Laberinto del Coco",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "cocoteo-15",
+          "title": "Pepas",
+          "artist": "Farruko",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "afrobank",
+      "name": "AfroBank FM",
+      "genre": "Afrobeats & amapiano",
+      "host": "Burna Boy & Palms Trax",
+      "color": "#f7bd79",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "afrobank-1",
+          "title": "Joha",
+          "artist": "Asake",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "afrobank-2",
+          "title": "Gye Wani",
+          "artist": "Pat Thomas feat. Ebo Taylor",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "afrobank-3",
+          "title": "Shay'sana",
+          "artist": "DJ Lag & Robot Boii feat. Kamo Mphela",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "afrobank-4",
+          "title": "No Discrimination",
+          "artist": "Tony Allen & The Afro Messengers",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "afrobank-5",
+          "title": "Assanssan",
+          "artist": "Alafia",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "afrobank-6",
+          "title": "Wadibusa",
+          "artist": "Uncle Waffles feat. Royal MusiQ, OHP Sage & Pcee",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "afrobank-7",
+          "title": "Run No More",
+          "artist": "Hugh Masekela",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "afrobank-8",
+          "title": "Goro City",
+          "artist": "Manu Dibango",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-rock",
+      "name": "V-Rock",
+      "genre": "Classic rock",
+      "host": "Rock radio",
+      "color": "#db7e9e",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "v-rock-1",
+          "title": "For What It's Worth",
+          "artist": "Stevie Nicks",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-2",
+          "title": "Go Insane",
+          "artist": "Lindsey Buckingham",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-3",
+          "title": "Runaway",
+          "artist": "Bon Jovi",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-4",
+          "title": "Emotional Rescue",
+          "artist": "The Rolling Stones",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-5",
+          "title": "I Want a New Drug",
+          "artist": "Huey Lewis and the News",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-6",
+          "title": "Panama",
+          "artist": "Van Halen",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-7",
+          "title": "Nothin' but a Good Time",
+          "artist": "Poison",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-8",
+          "title": "Cocaine",
+          "artist": "Eric Clapton",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-9",
+          "title": "Jump into the Fire",
+          "artist": "Harry Nilsson",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-10",
+          "title": "Bargain",
+          "artist": "The Who",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-11",
+          "title": "Take Me Home Tonight",
+          "artist": "Eddie Money",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-12",
+          "title": "Jack & Diane",
+          "artist": "John Mellencamp",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-13",
+          "title": "Dr. Feelgood",
+          "artist": "Mötley Crüe",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-14",
+          "title": "Let My Love Open the Door",
+          "artist": "Pete Townshend",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-15",
+          "title": "Lovin' Every Minute of It",
+          "artist": "Loverboy",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-16",
+          "title": "Sure Know Something",
+          "artist": "KISS",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-17",
+          "title": "Roller",
+          "artist": "April Wine",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-18",
+          "title": "Rock 'n' Roll Fantasy",
+          "artist": "Bad Company",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "v-rock-19",
+          "title": "Shooting Shark",
+          "artist": "Blue Öyster Cult",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stockyard",
+      "name": "Stockyard FM",
+      "genre": "Indie dance & electronic",
+      "host": "Club radio",
+      "color": "#df98ec",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "stockyard-1",
+          "title": "Overpowered",
+          "artist": "Róisín Murphy",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "stockyard-2",
+          "title": "Million Dollar Baby",
+          "artist": "Tommy Richman",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "stockyard-3",
+          "title": "One Night/All Night",
+          "artist": "Justice & Tame Impala",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "stockyard-4",
+          "title": "Emerge",
+          "artist": "Fischerspooner",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "stockyard-5",
+          "title": "Paradise",
+          "artist": "ANOTR",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "stockyard-6",
+          "title": "Abu Simbel",
+          "artist": "Rampa & WhoMadeWho",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "stockyard-7",
+          "title": "You Move Me",
+          "artist": "NEIL FRANCES",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "stockyard-8",
+          "title": "No Stress",
+          "artist": "CMD/CTRL",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "symphony",
+      "name": "Symphony FM",
+      "genre": "Classical",
+      "host": "Classical radio",
+      "color": "#b6a3df",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "symphony-1",
+          "title": "Symphony No. 5, III. Allegro Molto",
+          "artist": "Jean Sibelius",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "symphony-2",
+          "title": "Symphony No. 6, Allegro Energico",
+          "artist": "Gustav Mahler",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "symphony-3",
+          "title": "Messiah",
+          "artist": "George Frideric Handel",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "symphony-4",
+          "title": "Les Préludes",
+          "artist": "Franz Liszt",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "symphony-5",
+          "title": "Concerto for Orchestra",
+          "artist": "Witold Lutosławski",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "symphony-6",
+          "title": "Piano Concerto No. 2",
+          "artist": "Sergei Prokofiev",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "symphony-7",
+          "title": "Nocturnes, L. 91: II. Fêtes",
+          "artist": "Claude Debussy",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "circoloco",
+      "name": "CircoLoco Records Radio",
+      "genre": "House & techno",
+      "host": "CircoLoco",
+      "color": "#e9a4d1",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "circoloco-1",
+          "title": "Floral",
+          "artist": "Skream",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "circoloco-2",
+          "title": "Rhythm of the Night",
+          "artist": "Michael Bibi",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "circoloco-3",
+          "title": "Let It Go",
+          "artist": "Mind Against",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "emotion",
+      "name": "Emotion 98.3",
+      "genre": "Soft rock & ballads",
+      "host": "Soft rock radio",
+      "color": "#e8a4bf",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "emotion-1",
+          "title": "Devil Woman",
+          "artist": "Cliff Richard",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-2",
+          "title": "Drive",
+          "artist": "The Cars",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-3",
+          "title": "In the Air Tonight",
+          "artist": "Phil Collins",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-4",
+          "title": "Listen to Your Heart",
+          "artist": "Roxette",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-5",
+          "title": "But I Think It's a Dream",
+          "artist": "Captain & Tennille",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-6",
+          "title": "Overnite",
+          "artist": "Scritti Politti",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-7",
+          "title": "Coming Around Again",
+          "artist": "Carly Simon",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-8",
+          "title": "I Guess That's Why They Call It the Blues",
+          "artist": "Elton John",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-9",
+          "title": "Against All Odds (Take a Look at Me Now)",
+          "artist": "Phil Collins",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-10",
+          "title": "Stop Draggin' My Heart Around",
+          "artist": "Stevie Nicks feat. Tom Petty",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-11",
+          "title": "When You're in Love with a Beautiful Woman",
+          "artist": "Dr. Hook",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "emotion-12",
+          "title": "Fool (If You Think It's Over)",
+          "artist": "Chris Rea",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "honey",
+      "name": "Honey FM",
+      "genre": "R&B & soul",
+      "host": "R&B radio",
+      "color": "#ffb684",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "honey-1",
+          "title": "Lady",
+          "artist": "D'Angelo",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-2",
+          "title": "Optimistic",
+          "artist": "Sounds of Blackness",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-3",
+          "title": "Hey Mr. D.J.",
+          "artist": "Zhané",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-4",
+          "title": "Get It On Tonite",
+          "artist": "Montell Jordan",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-5",
+          "title": "Buy U a Drank (Shawty Snappin')",
+          "artist": "T-Pain feat. Yung Joc",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-6",
+          "title": "I Adore Mi Amor",
+          "artist": "Color Me Badd",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-7",
+          "title": "Where the Party At",
+          "artist": "Jagged Edge feat. Nelly",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-8",
+          "title": "Locked Up",
+          "artist": "Akon feat. Styles P",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-9",
+          "title": "Bad Girl",
+          "artist": "Usher",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-10",
+          "title": "Too Close",
+          "artist": "Next",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-11",
+          "title": "Feels Good",
+          "artist": "Tony! Toni! Toné!",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-12",
+          "title": "Dance with Me",
+          "artist": "112",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "honey-13",
+          "title": "Tell Me",
+          "artist": "Groove Theory",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "on-u",
+      "name": "Radio On-U",
+      "genre": "Reggae & dub",
+      "host": "Dub radio",
+      "color": "#e0b288",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "on-u-1",
+          "title": "Skylarking",
+          "artist": "Horace Andy",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "on-u-2",
+          "title": "Dub Inspector",
+          "artist": "Adrian Sherwood",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "on-u-3",
+          "title": "Caught You in a Lie",
+          "artist": "Louisa Mark",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "on-u-4",
+          "title": "I'm So Sorry",
+          "artist": "Carroll Thompson",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "on-u-5",
+          "title": "Big Ship",
+          "artist": "Freddie McGregor",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "on-u-6",
+          "title": "Everything I Own",
+          "artist": "Ken Boothe",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "worldwide",
+      "name": "Worldwide FM",
+      "genre": "Global electronic & jazz",
+      "host": "Worldwide radio",
+      "color": "#cfb0fc",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "worldwide-1",
+          "title": "Smile",
+          "artist": "Jamiroquai",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-2",
+          "title": "Don't Send Me Away",
+          "artist": "Garfield Fleming",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-3",
+          "title": "Slope VIP",
+          "artist": "Facta feat. Warrior Queen & Killa P",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-4",
+          "title": "Atmosphere Strut",
+          "artist": "Cloud One",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-5",
+          "title": "The First Time Ever I Saw Your Face",
+          "artist": "Roberta Flack",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-6",
+          "title": "Do It for You",
+          "artist": "Moses Ideka & Phil",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-7",
+          "title": "Star Chasers",
+          "artist": "4hero",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-8",
+          "title": "Yoppa Ratta",
+          "artist": "Dongurizu",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-9",
+          "title": "Brasil de Capoeira",
+          "artist": "Fejão feat. Samtheman",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "worldwide-10",
+          "title": "Skhaftin Saka Fonque",
+          "artist": "Atmos Blaq",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "kaleidoscope",
+      "name": "Kaleidoscope FM",
+      "genre": "International pop",
+      "host": "International radio",
+      "color": "#f9b4b4",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "kaleidoscope-1",
+          "title": "Herz aus Glas",
+          "artist": "Marianne Rosenberg",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "kaleidoscope-2",
+          "title": "Rokkibaby",
+          "artist": "Rolf Bergström",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "kaleidoscope-3",
+          "title": "Hai capito o no?",
+          "artist": "Ron",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "kaleidoscope-4",
+          "title": "Stupid Girl",
+          "artist": "Trevor M. Simpson & Hi Lo Singers",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "kaleidoscope-5",
+          "title": "Chia Tay Trong Mưa",
+          "artist": "Phương Thanh",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "kaleidoscope-6",
+          "title": "Say It Right",
+          "artist": "Alim Qasimov & Farghana Qasimova",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "la-ola",
+      "name": "Radio La Ola",
+      "genre": "Salsa & Latin classics",
+      "host": "Latin radio",
+      "color": "#ff997e",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "la-ola-1",
+          "title": "La Cartera",
+          "artist": "Orquesta Harlow",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-2",
+          "title": "Descarga Cubana",
+          "artist": "Cachao",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-3",
+          "title": "No Hay Cama Pa' Tanta Gente",
+          "artist": "El Gran Combo de Puerto Rico",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-4",
+          "title": "Mi Tierra",
+          "artist": "Gloria Estefan",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-5",
+          "title": "Sopa de Caracol",
+          "artist": "Banda Blanca",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-6",
+          "title": "Soy Guajiro",
+          "artist": "Willy Chirino",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-7",
+          "title": "La Hija de Lola",
+          "artist": "Charlie Palmieri",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-8",
+          "title": "Ligia Elena",
+          "artist": "Willie Colón & Rubén Blades",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-9",
+          "title": "Caballo Viejo",
+          "artist": "Roberto Torres",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-10",
+          "title": "Pedro Navaja",
+          "artist": "Willie Colón & Rubén Blades",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "la-ola-11",
+          "title": "Besito de Coco",
+          "artist": "Celia Cruz feat. Johnny Pacheco",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vice-city",
+      "name": "Vice City FM",
+      "genre": "80s new wave & pop",
+      "host": "Retro radio",
+      "color": "#ff8db1",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "vice-city-1",
+          "title": "Wild Heart",
+          "artist": "Stevie Nicks",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-2",
+          "title": "Lips Like Sugar",
+          "artist": "Echo & the Bunnymen",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-3",
+          "title": "Name and Number",
+          "artist": "Curiosity Killed the Cat",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-4",
+          "title": "A Good Heart",
+          "artist": "Feargal Sharkey",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-5",
+          "title": "Thieves Like Us",
+          "artist": "New Order",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-6",
+          "title": "Kiss and Tell",
+          "artist": "Bryan Ferry",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-7",
+          "title": "Loverboy",
+          "artist": "Billy Ocean",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-8",
+          "title": "Shattered Dreams",
+          "artist": "Johnny Hates Jazz",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-9",
+          "title": "We Don't Have to Take Our Clothes Off",
+          "artist": "Jermaine Stewart",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-10",
+          "title": "Miss Me Blind",
+          "artist": "Culture Club",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-11",
+          "title": "Everybody Have Fun Tonight",
+          "artist": "Wang Chung",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-12",
+          "title": "People Are People",
+          "artist": "Depeche Mode",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vice-city-13",
+          "title": "Cars and Girls",
+          "artist": "Prefab Sprout",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vcrr",
+      "name": "VCRR",
+      "genre": "Modern hip-hop",
+      "host": "JT & Stevie J",
+      "color": "#ed96ab",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "vcrr-1",
+          "title": "Nokia",
+          "artist": "Drake",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-2",
+          "title": "Bad and Boujee",
+          "artist": "Migos feat. Lil Uzi Vert",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-3",
+          "title": "Help Me",
+          "artist": "Real Boston Richey",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-4",
+          "title": "Unforgettable",
+          "artist": "French Montana feat. Swae Lee",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-5",
+          "title": "Nonstop",
+          "artist": "Drake",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-6",
+          "title": "One of Them Ones",
+          "artist": "Mustard feat. Quavo & Rob49",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-7",
+          "title": "Don't Chart",
+          "artist": "Cardi B",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-8",
+          "title": "Xanny Family",
+          "artist": "Future",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-9",
+          "title": "Dior",
+          "artist": "Pop Smoke",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-10",
+          "title": "RHYNO",
+          "artist": "Travis Scott",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-11",
+          "title": "Mr. Pot Scraper",
+          "artist": "BossMan Dlow",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-12",
+          "title": "Gass",
+          "artist": "Nemzzz feat. Travis Scott",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-13",
+          "title": "That's It",
+          "artist": "Yung Lean feat. Future & Metro Boomin",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-14",
+          "title": "Roll in Peace",
+          "artist": "Kodak Black feat. XXXTentacion",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-15",
+          "title": "Bills Paid",
+          "artist": "DJ Khaled feat. Latto & City Girls",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-16",
+          "title": "Whatchu Kno About Me",
+          "artist": "GloRilla feat. Sexyy Red",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-17",
+          "title": "Digits",
+          "artist": "Young Thug",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-18",
+          "title": "Type Shit",
+          "artist": "Future, Metro Boomin, Travis Scott & Playboi Carti",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-19",
+          "title": "Ahh Yea",
+          "artist": "Playboi Carti",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-20",
+          "title": "Go Go Go",
+          "artist": "BunnaB",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-21",
+          "title": "Count Up",
+          "artist": "Gunna",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-22",
+          "title": "Got Dat",
+          "artist": "Pooh Shiesty",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-23",
+          "title": "I Just Came to Pop It",
+          "artist": "Offset",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-24",
+          "title": "Fla Flow",
+          "artist": "Denzel Curry",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-25",
+          "title": "Blow a Cheque",
+          "artist": "Zoey Dollaz",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-26",
+          "title": "Don Da Da",
+          "artist": "Young Nudy",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-27",
+          "title": "Let's Rock",
+          "artist": "Kodak Black & Don Toliver",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-28",
+          "title": "Rock N Roll",
+          "artist": "Central Cee",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-29",
+          "title": "Wassup Gway",
+          "artist": "Famous Sally & YB",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-30",
+          "title": "IKYFL",
+          "artist": "Tee Grizzley",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-31",
+          "title": "Go Shorty",
+          "artist": "Latto feat. Flo Milli",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-32",
+          "title": "Cashout",
+          "artist": "SoFaygo",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-33",
+          "title": "Soak City",
+          "artist": "310babii, Blueface & Tyga",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "vcrr-34",
+          "title": "Cookin",
+          "artist": "21 Savage",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "gloriana",
+      "name": "Gloriana Blues Radio",
+      "genre": "Blues & gospel",
+      "host": "Blues radio",
+      "color": "#a9a2eb",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "gloriana-1",
+          "title": "Trouble in Mind",
+          "artist": "Ella Fitzgerald",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "gloriana-2",
+          "title": "Me and My Chauffeur Blues",
+          "artist": "Memphis Minnie",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "gloriana-3",
+          "title": "That's All Right",
+          "artist": "Jimmy Rogers",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "gloriana-4",
+          "title": "Boogie Chillen'",
+          "artist": "John Lee Hooker",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "gloriana-5",
+          "title": "I Got What It Takes",
+          "artist": "Koko Taylor",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "gloriana-6",
+          "title": "Blue Guitar",
+          "artist": "Earl Hooker",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "gloriana-7",
+          "title": "Yonder Wall",
+          "artist": "Freddie King",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "gloriana-8",
+          "title": "Didn't It Rain",
+          "artist": "Sister Rosetta Tharpe",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "leonida-jazz",
+      "name": "Leonida Jazz Radio",
+      "genre": "Jazz fusion",
+      "host": "Jazz radio",
+      "color": "#b6b6e8",
+      "type": "music",
+      "tracks": [
+        {
+          "id": "leonida-jazz-1",
+          "title": "Sorceress",
+          "artist": "Return to Forever",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "leonida-jazz-2",
+          "title": "Night Crawler",
+          "artist": "Bob James",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "leonida-jazz-3",
+          "title": "School Days",
+          "artist": "Stanley Clarke",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "leonida-jazz-4",
+          "title": "Time Limit",
+          "artist": "Casiopea",
+          "verification": "reported",
+          "spotifyUrl": null
+        },
+        {
+          "id": "leonida-jazz-5",
+          "title": "Overtown Lights",
+          "artist": "Stanley Clarke feat. Yussef Dayes & Robert Glasper",
+          "verification": "reported",
+          "spotifyUrl": null
+        }
+      ]
+    },
+    {
+      "id": "wktt",
+      "name": "WKTT",
+      "genre": "Talk radio",
+      "host": "We Know The Truth",
+      "color": "#cdb0e1",
+      "type": "talk",
+      "tracks": []
+    },
+    {
+      "id": "the-wipe",
+      "name": "The Wipe",
+      "genre": "Talk / satire",
+      "host": "Talk radio",
+      "color": "#f2a77e",
+      "type": "talk",
+      "tracks": []
+    },
+    {
+      "id": "the-vault",
+      "name": "The Vault Radio",
+      "genre": "Hidden nightclub station",
+      "host": "Unlock at The Vault",
+      "color": "#e5a5fc",
+      "type": "hidden",
+      "tracks": []
+    }
+  ]
+}
